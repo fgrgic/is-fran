@@ -19,6 +19,8 @@ npm -i @fgrgic/is-fran
 ## Usage
 
 ```js
+import isFran from "@fgrgic/is-fran";
+
 isFran("fran"); // true
 isFran("zagreb"); // true
 isFran("john"); // false
