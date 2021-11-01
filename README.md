@@ -24,4 +24,5 @@ import isFran from "@fgrgic/is-fran";
 isFran("fran"); // true
 isFran("zagreb"); // true
 isFran("john"); // false
+isFran(0); // false
 ```

@@ -1,6 +1,8 @@
 const franStrings = require("./constants");
 
 function isFran(text) {
+  if (!text || !(typeof text === string)) return false;
+
   let test = text.toLowerCase().trim();
   test = test.replace(/\s/g, "");
 
