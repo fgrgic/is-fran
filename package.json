@@ -1,0 +1,22 @@
+{
+  "name": "@fgrgic/is-fran",
+  "version": "0.0.1",
+  "description": "Is a string Fran?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fgrgic/is-fran.git"
+  },
+  "keywords": [
+    "Fran"
+  ],
+  "author": "Fran Grgic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fgrgic/is-fran/issues"
+  },
+  "homepage": "https://github.com/fgrgic/is-fran#readme"
+}
